@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=51C7FF&background=FFFFFF00&random=false&width=435&lines=Ol%C3%A1!+Eu+sou+o+Eduardo+Lima)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=428FFF&background=FFFFFF00&random=false&width=435&lines=Ol%C3%A1!+Eu+sou+o+Eduardo+Lima!)](https://git.io/typing-svg)
 
 [![Linkedin]( https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-lima-crr/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/eduardo_limx) 
