@@ -1,16 +1,17 @@
-## Hi there 👋
 
-<!--
-**Eduardolimacrr/Eduardolimacrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=51C7FF&background=FFFFFF00&random=false&width=435&lines=Ol%C3%A1!+Eu+sou+o+Eduardo+Lima!)](https://git.io/typing-svg)
 
-Here are some ideas to get you started:
+[![Linkedin]( https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-lima-crr/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/eduardo_limx) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eduardolimacrr\&rank_icon=github&theme=dark)
+
+
+#### Tecnologias que tenho conhecimento:
+
+![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E )
+![python](    https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![html](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white )
+
+
