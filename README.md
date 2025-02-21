@@ -35,7 +35,7 @@
 
 <br/>
 
-[![edaurdolimacrr](https://github-readme-stats.vercel.app/api/top-langs/?username=edaurdolimacrr&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![eduardolimacrr](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardolimacrr&hide=html&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Onde me encontrar
 
