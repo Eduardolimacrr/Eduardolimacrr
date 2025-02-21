@@ -5,7 +5,7 @@
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Estudante de Sistemas de Informação na Universidade Positivo - Noturno.
 - 💼 Trabalhando com vue3 - vitest - playwright na Leads2b.
-- 🌱 Aprendendo mais sobre nodeJs - vue3 - molecularJs.
+- 🌱 Aprendendo mais sobre node.js - vue3 - molecular JS.
 
 ## Minhas Skills
 
