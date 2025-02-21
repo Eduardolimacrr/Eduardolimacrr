@@ -4,8 +4,8 @@
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Estudante de Sistemas de Informação na Universidade Positivo - Noturno.
-- 💼 Trabalhando como vue3 - vitest - playwright na Leads2b.
-- 🌱 Aprendendo mais sobre {tecnologias que você está aprendendo}.
+- 💼 Trabalhando com vue3 - vitest - playwright na Leads2b.
+- 🌱 Aprendendo mais sobre nodeJs - vue3 - molecularJs.
 
 ## Minhas Skills
 
@@ -36,7 +36,7 @@
 <br/>
 
 <a href="https://github.com/Eduardolimacrr/" title="Perfil do Eduardo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eduardolimacrr&theme=dracula&show_icons=true" />
+  [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardolimacrr&layout=dark)](https://github.com/Eduardolimacrr/github-readme-stats)
 </a>
 
 ## Onde me encontrar
