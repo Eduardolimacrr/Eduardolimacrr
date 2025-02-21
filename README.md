@@ -35,7 +35,7 @@
 
 <br/>
 
-<a href="https://github.com/iuricode" title="Perfil do Iuri">
+<a href="https://github.com/Eduardolimacrr/" title="Perfil do Eduardo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iuricode&theme=dracula&show_icons=true" />
 </a>
 
@@ -43,6 +43,6 @@
 
 [![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-lima-crr/)
 [![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](eduardolimacrr@gmail.com)
-[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/Eduardolimacrr/Eduardolimacrr/)
+[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/Eduardolimacrr/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/eduardo_limx) 
 
