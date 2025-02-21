@@ -35,9 +35,7 @@
 
 <br/>
 
-<a href="https://github.com/Eduardolimacrr/" title="Perfil do Eduardo">
-  [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardolimacrr&layout=dark)](https://github.com/Eduardolimacrr/github-readme-stats)
-</a>
+[![edaurdolimacrr](https://github-readme-stats.vercel.app/api/top-langs/?username=edaurdolimacrr&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Onde me encontrar
 
