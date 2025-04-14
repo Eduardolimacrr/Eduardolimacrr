@@ -9,6 +9,8 @@
 
 ## Minhas Skills
 
+![Skill Badges](https://skillicons.dev/icons?i=js,html,css,mysql,ts,vue,c,git,github,,nodejs)
+
 
 ![python](    https://img.shields.io/badge/Python-333333?style=flat&logo=python&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
