@@ -9,7 +9,7 @@
 
 ## Minhas Skills
 
-![Skill Badges](https://skillicons.dev/icons?i=js,html,css,mysql,ts,vue,c,git,github,,nodejs)
+![Skill Badges](https://skillicons.dev/icons?i=js,html,css,nodejs,ts,vue,mysql,c,git,github)
 
 
 ![python](    https://img.shields.io/badge/Python-333333?style=flat&logo=python&logoColor=white) 
