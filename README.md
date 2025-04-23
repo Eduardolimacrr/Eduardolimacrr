@@ -12,7 +12,7 @@
 ![Skill Badges](https://skillicons.dev/icons?i=js,html,css,nodejs,ts,vue,mysql,c,git,github)
 
 <br/>
-[![eduardolimacrr](https://github-readme-stats.vercel.app/api/wakatime?username=eduardolimacrr)](https://github.com/anuraghazra/github-readme-stats)
+[![eduardolimacrr's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardolimacrr&theme=github_dark&locale=pt-br&layout=compact)](https://github.com/eduardolimacrr)
 
 [![eduardolimacrr](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardolimacrr&hide=html&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
