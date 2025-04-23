@@ -12,6 +12,7 @@
 ![Skill Badges](https://skillicons.dev/icons?i=js,html,css,nodejs,ts,vue,mysql,c,git,github)
 
 <br/>
+src="https://custom-icon-badges.demolab.com/github/followers/eduardolimacrr?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
 
 [![eduardolimacrr](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardolimacrr&hide=html&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
