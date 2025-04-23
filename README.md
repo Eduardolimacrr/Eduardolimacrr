@@ -13,7 +13,8 @@
 
 <br/>
 
-[![Meus Principais Idiomas](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardolimacrr&hide=html&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![eduardolimacrr](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardolimacrr&hide=html&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Onde me encontrar
 
 [![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-lima-crr/)
