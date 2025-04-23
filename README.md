@@ -12,11 +12,8 @@
 ![Skill Badges](https://skillicons.dev/icons?i=js,html,css,nodejs,ts,vue,mysql,c,git,github)
 
 <br/>
-[![eduardolimacrr Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardolimacrr&theme=github_dark&locale=pt-br&layout=compact)](https://github.com/eduardolimacrr)
-<br/>
 
-[![eduardolimacrr](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardolimacrr&hide=html&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Meus Principais Idiomas](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardolimacrr&hide=html&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 ## Onde me encontrar
 
 [![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-lima-crr/)
