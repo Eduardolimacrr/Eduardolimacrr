@@ -4,7 +4,7 @@
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Estudante de Sistemas de Informação na Universidade Positivo - Noturno.
 - 💼 Trabalhando na Leads2b.
-- 🌱 Aprendendo mais sobre node.js - vue.js - molecular JS - Java.
+- 🌱 Aprendendo mais sobre node.js - vue.js - PHP - Java.
 
 ## Minhas Skills
 
